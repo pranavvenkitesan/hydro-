@@ -1,0 +1,11 @@
+audio/sodaopening.mp3 — substitute file
+
+The original /audio/sodaopening.mp3 is missing (404) on the live hydroflowdrink.com
+and in the Wayback Machine; it could not be recovered. This is a replacement.
+
+Source : "Audio recording opening soda beverage can"
+Author : Staile (https://www.freesound.org/people/Staile/)
+Via    : Wikimedia Commons
+File   : https://commons.wikimedia.org/wiki/File:Audio_recording_opening_soda_beverage_can.ogg
+License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) — attribution required
+Note   : Converted from OGG to MP3 (libmp3lame).
